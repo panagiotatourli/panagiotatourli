@@ -24,4 +24,4 @@ Developed an end-to-end pipeline demonstrating the full data lifecycle:
 * **Predictive Analytics:** Leveraging structured and unstructured data to support advanced AI use cases.
 
 ### 📫 Connect with me
-[![LinkedIn](https://www.linkedin.com/in/panagiota-tourli/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panagiota-tourli/)
