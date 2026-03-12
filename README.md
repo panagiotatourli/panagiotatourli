@@ -1,6 +1,6 @@
 # Hi there, I'm Panagiota! 👋
 
-**AI Professional**
+**Data Engineer & AI Professional | MSc in AI & Data Analysis**
 
 I hold an **MSc in Artificial Intelligence & Data Analysis** and I specialize in **SQL**, **Python**, and **Data Engineering**. My expertise lies in building  data pipelines, performing transformations, and ensuring data reliability for AI applications.
 
