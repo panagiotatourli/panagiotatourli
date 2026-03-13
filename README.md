@@ -1,4 +1,4 @@
-# Hi there, I'm Panagiota! 👋
+# Hi there, I'm Panagiota! 
 
 **Data Engineer & AI Professional | MSc in AI & Data Analysis**
 
