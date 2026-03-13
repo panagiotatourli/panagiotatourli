@@ -12,12 +12,6 @@ I hold an **MSc in Artificial Intelligence & Data Analysis** and I specialize in
 
 ---
 
-### Featured Project: Sales Data Pipeline & ML
-Developed an end-to-end pipeline demonstrating the full data lifecycle:
-* **Data Ingestion:** Automated raw data loading into PostgreSQL using **SQLAlchemy**.
-* **SQL Cleaning:** Executed simple transformations and data validation directly in the database.
-* **AI Development:** Implemented **Machine Learning** models using Python to forecast trends.
-
 ### Interests & Expertise
 * **Data Pipelines & Cleaning:** I am focused on architecting pipelines that combine **SQL** for database-level transformations and **Python** for data processing.
 * **Generative AI Integration:** I am highly interested in bridging traditional **Data Engineering** (ETL/Cleaning) with **Generative AI** and **Large Language Models** to build intelligent, data-driven applications.
