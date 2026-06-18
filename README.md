@@ -12,10 +12,10 @@ AI professional focused on Python, machine learning, and Generative AI, with exp
 
 ## Interests & Expertise
 
-- **Machine Learning & AI:** 
-- **Generative AI & LLMs:** 
-- **Python Development:** 
-- **Data Systems (SQL & Pipelines):** 
+- **Machine Learning & AI
+- **Generative AI & LLMs
+- **Python Development
+- **Data Systems (SQL & Pipelines) 
   
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panagiota-tourli/)
