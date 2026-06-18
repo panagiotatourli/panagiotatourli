@@ -4,17 +4,7 @@ AI professional focused on Python, machine learning, and Generative AI, with exp
 
 ## Tech Stack
 
-## Tech Stack
-
-Python  
-Machine Learning  
-Artificial Intelligence  
-Generative AI  
-Pandas  
-NumPy  
-SQL  
-PostgreSQL  
----
+Python, Machine Learning, Artificial Intelligence, Generative AI, Pandas, NumPy, SQL, PostgreSQL
 
 ## Interests & Expertise
 
