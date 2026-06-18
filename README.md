@@ -12,10 +12,10 @@ AI professional focused on Python, machine learning, and Generative AI, with exp
 
 ## Interests & Expertise
 
-- **Machine Learning & AI:** Focused on machine learning and AI, with experience applying Python to build and experiment with models that solve real-world problems.
-- **Generative AI & LLMs:** Interested in Generative AI and large language models, particularly in developing applications that use them in practical and meaningful ways.
-- **Python Development:** Uses Python as the main tool for data processing, experimentation, and building AI-driven solutions.
-- **Data Systems (SQL & Pipelines):** Works with SQL and basic data pipeline concepts to support data preparation for machine learning and AI workflows.
+- **Machine Learning & AI:** 
+- **Generative AI & LLMs:** 
+- **Python Development:** 
+- **Data Systems (SQL & Pipelines):** 
   
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panagiota-tourli/)
