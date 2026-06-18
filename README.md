@@ -2,11 +2,15 @@
 
 AI professional focused on Python, machine learning, and Generative AI, with experience in developing AI-driven solutions and applying data engineering concepts in practice. Interested in large language models and real-world AI applications, with published research work in AI/NLP.
 
-### Tech Stack
-[Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-[SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+## Tech Stack
+
+[Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+[Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)  
+[Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge)  
+[Generative AI](https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge)  
+[Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+[SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 [PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-[Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
