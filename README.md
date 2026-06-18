@@ -1,4 +1,6 @@
-# AI professional focused on Python, machine learning, and Generative AI, with experience in building AI-driven solutions and working with data engineering concepts. Interested in large language models and real-world AI applications, with published research work in AI/NLP.
+## 👨‍💻 About Me
+
+AI professional focused on Python, machine learning, and Generative AI, with experience in developing AI-driven solutions and applying data engineering concepts in practice. Interested in large language models and real-world AI applications, with published research work in AI/NLP.
 
 ### Tech Stack
 [Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
