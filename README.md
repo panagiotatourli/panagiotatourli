@@ -1,4 +1,4 @@
-## 👨‍💻 About Me
+## About Me
 
 AI professional focused on Python, machine learning, and Generative AI, with experience in developing AI-driven solutions and applying data engineering concepts in practice. Interested in large language models and real-world AI applications, with published research work in AI/NLP.
 
