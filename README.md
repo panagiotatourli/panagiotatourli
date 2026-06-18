@@ -4,14 +4,16 @@ AI professional focused on Python, machine learning, and Generative AI, with exp
 
 ## Tech Stack
 
-[Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-[Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)  
-[Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge)  
-[Generative AI](https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge)  
-[Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-[SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-[PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+## Tech Stack
 
+Python  
+Machine Learning  
+Artificial Intelligence  
+Generative AI  
+Pandas  
+NumPy  
+SQL  
+PostgreSQL  
 ---
 
 ## Interests & Expertise
